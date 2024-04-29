@@ -13,7 +13,9 @@ windows
 ## How To Use
 
 1 - Download [Python](https://www.python.org/downloads/windows/ "Python")
+
 2 - Start run.bat 
+
 3 - Enjoy
 
 
